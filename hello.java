@@ -4,5 +4,7 @@ class first
     {
         System.out.println("hello chetan");
         System.out.println("Welcome to github");
+        System.out.println("This is your first program");
+
     }
 }
